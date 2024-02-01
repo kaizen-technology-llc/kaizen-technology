@@ -1,0 +1,17 @@
+.background-consulting-1 {
+    background-image: url('../img/consulting-1.jpeg');
+    overflow: auto;
+    height: 100vh;
+  }
+
+  .background-consulting-2 {
+    background-image: url('../img/consulting-2.jpeg');
+    overflow: auto;
+    height: 100vh;
+  }
+
+  .background-consulting-3 {
+    background-image: url('../img/consulting-3.jpeg');
+    overflow: auto;
+    height: 100vh;
+  }
